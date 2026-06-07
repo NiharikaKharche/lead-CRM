@@ -1,8 +1,8 @@
-# 🚀 LeadCRM Pro — Full Stack Lead Management System
+#  LeadCRM Pro — Full Stack Lead Management System
 
 A production-ready CRM application for managing leads and customers, built with React, Node.js, Express, and MongoDB.
 
-## ✨ Features
+##  Features
 
 - **Dashboard** — At-a-glance stats: total leads, conversion rate, pipeline status breakdown, recent activity
 - **Lead Management** — Add, view, edit, and delete leads with a sleek modal interface
@@ -13,7 +13,7 @@ A production-ready CRM application for managing leads and customers, built with 
 - **Analytics** — Charts showing status distribution, lead source breakdown, and monthly trends
 - **Responsive** — Works on desktop, tablet, and mobile
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -23,7 +23,7 @@ A production-ready CRM application for managing leads and customers, built with 
 | Styling | Pure CSS with CSS variables (dark theme) |
 | HTTP Client | Axios with interceptors |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 crm/
@@ -60,13 +60,13 @@ crm/
     └── package.json
 ```
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 
 - Node.js v18+
-- MongoDB (local) or MongoDB Atlas (cloud)
-- npm or yarn
+-  MongoDB Atlas (cloud)
+- npm
 
 ---
 
@@ -138,7 +138,7 @@ Frontend runs at: `http://localhost:5173`
 
 ---
 
-## 🔌 API Reference
+##  API Reference
 
 Base URL: `http://localhost:5000/api`
 
@@ -195,7 +195,7 @@ Base URL: `http://localhost:5000/api`
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Backend → Render
 
@@ -232,20 +232,18 @@ Base URL: `http://localhost:5000/api`
 
 ---
 
-## 🧩 Bonus Features Implemented
+##  Bonus Features Implemented
 
-- ✅ Lead statistics dashboard with charts (Recharts)
-- ✅ Server-side pagination
-- ✅ Multi-field sorting (name, company, status, date)
-- ✅ Multi-field filtering (status + full-text search)
-- ✅ Responsive design (mobile + tablet + desktop)
-- ✅ Lead source tracking
-- ✅ Monthly trend chart
-- ✅ Conversion rate calculation
-- ✅ Debounced search input
+-  Lead statistics dashboard with charts (Recharts)
+-  Server-side pagination
+-  Multi-field sorting (name, company, status, date)
+-  Multi-field filtering (status + full-text search)
+-  Responsive design (mobile + tablet + desktop)
+-  Lead source tracking
+-  Monthly trend chart
+-  Conversion rate calculation
+-  Debounced search input
 
 ---
 
-## 👤 Author
 
-Built for the Full Stack Developer Internship Assignment — websites.co.in
